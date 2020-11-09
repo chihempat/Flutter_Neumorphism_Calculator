@@ -15,4 +15,4 @@
 
 Screenshot
 
-![alt text](https://ibb.co/KmRncDW)
+<a href="https://ibb.co/KmRncDW"><img src="https://i.ibb.co/KmRncDW/Screenshot-2020-10-30-at-3-41-27-PM.png" alt="Screenshot-2020-10-30-at-3-41-27-PM" border="0"></a>
